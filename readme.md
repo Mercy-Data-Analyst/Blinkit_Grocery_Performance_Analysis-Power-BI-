@@ -1,13 +1,13 @@
 # Blinkit Grocery Performance Analysis (Power BI Dashboard)
 
 ## Project Overview
-This project analyzes**Blinkit Grocery Data** to evaluate outlet performance,item category sales, fat content distribution, and yearly establishment trend using **Power BI**.
+This project analyzes **Blinkit Grocery Data** to evaluate outlet performance,item category sales, fat content distribution, and yearly establishment trend using **Power BI**.
 
 The dashboard provides interactive insights into sales distribution across outlet types, item types, and fat content categories to support data-driven decision-making
 
 ---
 
-## Buisness Objectives
+## Business Objectives
 
 - How does outlet size and location impact performance?
 - which outlet type contibutes the most revenue?
@@ -83,6 +83,9 @@ Tools Used
 
 # Dashboard Preview
 
+Page 1
+
+
 
 
 
@@ -94,5 +97,6 @@ This project demonstrates my ability to transform raw data into structured, deci
 The analysis identifies Tier 3 outlets and Supermarkets Type 1 as primary contributors  to over-all revenue, while category-level and fat-content segmentation reveal measurable consumer behaviour patterns. The inclusion of KPI tracking, trend analysis, and comparative matrix reporting ensures both high-level executive visibility and detailed performance evaluation.
 
 This dashboard reflects a practical understanding of business intelligence  fundamentals, data preparation, metric design, and insight communication delivered in a structured and professional format suitable for real-world reporting environment.
+
 
 
