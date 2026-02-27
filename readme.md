@@ -86,6 +86,9 @@ Tools Used
 Page 1
 ![](https://github.com/Mercy-Data-Analyst/Blinkit_Grocery_Performance_Analysis-Power-BI-/blob/main/Blinkit%20Dashboard%20Page%201.jpg)
 
+Page 2
+![](https://github.com/Mercy-Data-Analyst/Blinkit_Grocery_Performance_Analysis-Power-BI-/blob/main/Blinkit%20Dashboard%20Page%202.jpg)
+
 
 
 
@@ -98,6 +101,7 @@ This project demonstrates my ability to transform raw data into structured, deci
 The analysis identifies Tier 3 outlets and Supermarkets Type 1 as primary contributors  to over-all revenue, while category-level and fat-content segmentation reveal measurable consumer behaviour patterns. The inclusion of KPI tracking, trend analysis, and comparative matrix reporting ensures both high-level executive visibility and detailed performance evaluation.
 
 This dashboard reflects a practical understanding of business intelligence  fundamentals, data preparation, metric design, and insight communication delivered in a structured and professional format suitable for real-world reporting environment.
+
 
 
 
